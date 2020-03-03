@@ -1,0 +1,10 @@
+E:\Belajar\kalkutator\kalkutator\bin\Debug\netcoreapp3.1\kalkutator.exe
+E:\Belajar\kalkutator\kalkutator\bin\Debug\netcoreapp3.1\kalkutator.deps.json
+E:\Belajar\kalkutator\kalkutator\bin\Debug\netcoreapp3.1\kalkutator.runtimeconfig.json
+E:\Belajar\kalkutator\kalkutator\bin\Debug\netcoreapp3.1\kalkutator.runtimeconfig.dev.json
+E:\Belajar\kalkutator\kalkutator\bin\Debug\netcoreapp3.1\kalkutator.dll
+E:\Belajar\kalkutator\kalkutator\bin\Debug\netcoreapp3.1\kalkutator.pdb
+E:\Belajar\kalkutator\kalkutator\obj\Debug\netcoreapp3.1\kalkutator.AssemblyInfoInputs.cache
+E:\Belajar\kalkutator\kalkutator\obj\Debug\netcoreapp3.1\kalkutator.AssemblyInfo.cs
+E:\Belajar\kalkutator\kalkutator\obj\Debug\netcoreapp3.1\kalkutator.dll
+E:\Belajar\kalkutator\kalkutator\obj\Debug\netcoreapp3.1\kalkutator.pdb
